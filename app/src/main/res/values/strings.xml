@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Rally</string>
+
+    <string name="path_lenght">Длина пути</string>
+
+
 </resources>
